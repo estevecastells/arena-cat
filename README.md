@@ -112,6 +112,13 @@ Un cop validada la mecànica amb la prova de concepte, ampliarem l'abast incorpo
                     <sub><b>bytesontherocks</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/gerardmartinezcanelles">
+                    <img src="https://github.com/gerardmartinezcanelles.png?size=100" width="100;" alt="gerardmartinezcanelles"/>
+                    <br />
+                    <sub><b>gerardmartinezcanelles</b></sub>
+                </a>
+            </td>
 		</tr>
 	<tbody>
 </table>
